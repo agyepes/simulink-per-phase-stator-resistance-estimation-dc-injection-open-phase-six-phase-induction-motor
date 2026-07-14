@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use these files, please cite the associated paper."
+message: "If you use these files, please cite the software record and the associated paper."
 title: "Supplementary files for paper \"Per-Phase Stator-Resistance Estimation by DC-Signal Injection in Open-Phase Fault-Tolerant Six-Phase Induction Motor Drives\""
 type: software
 authors:
@@ -26,8 +26,10 @@ authors:
     orcid: "https://orcid.org/0000-0001-8526-3106"
 version: 1.0.0
 date-released: 2026-07-14
+doi: "10.5281/zenodo.21349688"
 license: CC-BY-4.0
 repository-code: "https://github.com/agyepes/simulink-per-phase-stator-resistance-estimation-dc-injection-open-phase-six-phase-induction-motor"
+url: "https://doi.org/10.5281/zenodo.21349688"
 keywords:
   - MATLAB
   - Simulink

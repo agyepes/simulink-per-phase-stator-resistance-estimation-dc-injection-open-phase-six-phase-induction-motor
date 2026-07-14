@@ -58,6 +58,7 @@ For reference, both the retained final supplementary ZIP and the archive downloa
 ## Related resources
 
 - Paper: https://doi.org/10.1109/TIE.2024.3417992
+- Zenodo software record: https://doi.org/10.5281/zenodo.21349688
 - IEEE Xplore paper and supplementary-material page: https://ieeexplore.ieee.org/document/10605588/media
 - ResearchGate paper record: https://www.researchgate.net/publication/381293072
 - ResearchGate supplementary-material record: https://www.researchgate.net/publication/381293163
@@ -69,4 +70,4 @@ Unless otherwise stated, the files in this repository are licensed under the [Cr
 
 ## Citation
 
-Please cite the associated IEEE Transactions on Industrial Electronics paper above when using these files. A machine-readable citation is provided in `CITATION.cff`.
+Please cite the associated IEEE Transactions on Industrial Electronics paper above when using these files. When citing this archived software release, use https://doi.org/10.5281/zenodo.21349688. A machine-readable citation is provided in `CITATION.cff`.
