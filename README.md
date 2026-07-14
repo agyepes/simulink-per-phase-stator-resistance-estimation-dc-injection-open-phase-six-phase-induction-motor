@@ -42,10 +42,10 @@ The initialization callback defines the vector-space-decomposition transformatio
 
 `Simulation.slx` is byte-for-byte identical to the model in:
 
-- the final supplementary archive retained with the paper source files; and
-- the [supplementary archive currently shared on ResearchGate](https://www.researchgate.net/publication/381293163).
+- the original final supplementary archive retained with the paper source files; and
+- the corrected [supplementary archive currently shared on ResearchGate](https://www.researchgate.net/publication/381293163).
 
-The `README.txt` accompanying those copies contains outdated authorship metadata: it lists M. S. Hamad, who is not an author of this paper. This repository replaces that text file with corrected `README.md`, `LICENSE.txt`, and `CITATION.cff` files while leaving `Simulation.slx` unchanged.
+The original retained archive contained a `README.txt` with outdated authorship metadata: it lists M. S. Hamad, who is not an author of this paper. The corrected ResearchGate archive and this repository replace that text file with `README.md`, `LICENSE.txt`, and `CITATION.cff` while leaving `Simulation.slx` unchanged.
 
 ### SHA-256 checksum
 
@@ -53,7 +53,7 @@ The `README.txt` accompanying those copies contains outdated authorship metadata
 | --- | --- |
 | `Simulation.slx` | `69f25bb1578789200e902a2c7905ed1f6632d147a8232e26d2a9fc750100b097` |
 
-For reference, both the retained final supplementary ZIP and the archive downloaded from ResearchGate have SHA-256 `ca7cb5657e9ff385be2966bcd9d5647864c655512e2ba28d1f7aebddd7bda328`.
+For reference, the original final supplementary ZIP retained with the paper source files—and the byte-identical original archive previously shared on ResearchGate—has SHA-256 `ca7cb5657e9ff385be2966bcd9d5647864c655512e2ba28d1f7aebddd7bda328`.
 
 ## Related resources
 
