@@ -1,0 +1,73 @@
+cff-version: 1.2.0
+message: "If you use these files, please cite the associated paper."
+title: "Supplementary files for paper \"Per-Phase Stator-Resistance Estimation by DC-Signal Injection in Open-Phase Fault-Tolerant Six-Phase Induction Motor Drives\""
+type: software
+authors:
+  - given-names: "Alejandro G."
+    family-names: "Yepes"
+    orcid: "https://orcid.org/0000-0002-1423-4276"
+  - given-names: "Mahmoud Said"
+    family-names: "Abdel-Majeed"
+    orcid: "https://orcid.org/0000-0002-0005-9622"
+  - given-names: "Wessam E."
+    family-names: "Abdel-Azim"
+    orcid: "https://orcid.org/0000-0001-5607-0313"
+  - given-names: "Mohamed G."
+    family-names: "Abdel-Moneim"
+    orcid: "https://orcid.org/0000-0001-7615-352X"
+  - given-names: "Ayman Samy"
+    family-names: "Abdel-Khalik"
+    orcid: "https://orcid.org/0000-0001-5162-4954"
+  - given-names: "Shehab"
+    family-names: "Ahmed"
+    orcid: "https://orcid.org/0000-0003-0073-8745"
+  - given-names: "Jesús"
+    family-names: "Doval-Gandoy"
+    orcid: "https://orcid.org/0000-0001-8526-3106"
+version: 1.0.0
+date-released: 2026-07-14
+license: CC-BY-4.0
+repository-code: "https://github.com/agyepes/simulink-per-phase-stator-resistance-estimation-dc-injection-open-phase-six-phase-induction-motor"
+keywords:
+  - MATLAB
+  - Simulink
+  - Specialized Power Systems
+  - six-phase induction motor
+  - stator-resistance estimation
+  - dc-signal injection
+  - open-phase fault
+  - fault-tolerant drive
+  - multiphase drive
+preferred-citation:
+  type: article
+  title: "Per-Phase Stator-Resistance Estimation by DC-Signal Injection in Open-Phase Fault-Tolerant Six-Phase Induction Motor Drives"
+  authors:
+    - given-names: "Alejandro G."
+      family-names: "Yepes"
+      orcid: "https://orcid.org/0000-0002-1423-4276"
+    - given-names: "Mahmoud Said"
+      family-names: "Abdel-Majeed"
+      orcid: "https://orcid.org/0000-0002-0005-9622"
+    - given-names: "Wessam E."
+      family-names: "Abdel-Azim"
+      orcid: "https://orcid.org/0000-0001-5607-0313"
+    - given-names: "Mohamed G."
+      family-names: "Abdel-Moneim"
+      orcid: "https://orcid.org/0000-0001-7615-352X"
+    - given-names: "Ayman Samy"
+      family-names: "Abdel-Khalik"
+      orcid: "https://orcid.org/0000-0001-5162-4954"
+    - given-names: "Shehab"
+      family-names: "Ahmed"
+      orcid: "https://orcid.org/0000-0003-0073-8745"
+    - given-names: "Jesús"
+      family-names: "Doval-Gandoy"
+      orcid: "https://orcid.org/0000-0001-8526-3106"
+  journal: "IEEE Transactions on Industrial Electronics"
+  volume: 72
+  issue: 2
+  start: 1101
+  end: 1112
+  year: 2025
+  month: 2
+  doi: "10.1109/TIE.2024.3417992"

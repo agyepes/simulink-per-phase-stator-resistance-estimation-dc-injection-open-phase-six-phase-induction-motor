@@ -1,0 +1,21 @@
+License
+
+SPDX-License-Identifier: CC-BY-4.0
+
+Unless otherwise stated, the files in this repository are licensed under the
+Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+You are free to share and adapt the material, provided that appropriate credit
+is given.
+
+License text:
+https://creativecommons.org/licenses/by/4.0/
+
+Please cite the associated paper when using this material:
+
+A. G. Yepes, M. S. Abdel-Majeed, W. E. Abdel-Azim, M. G. Abdel-Moneim,
+A. S. Abdel-Khalik, S. Ahmed, and J. Doval-Gandoy,
+"Per-Phase Stator-Resistance Estimation by DC-Signal Injection in Open-Phase
+Fault-Tolerant Six-Phase Induction Motor Drives," IEEE Transactions on
+Industrial Electronics, vol. 72, no. 2, pp. 1101-1112, February 2025,
+doi: 10.1109/TIE.2024.3417992.
